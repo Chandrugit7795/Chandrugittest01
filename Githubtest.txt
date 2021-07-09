@@ -5,5 +5,3 @@
 3.Version control
 
 4.Push
-
-5.Pull
